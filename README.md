@@ -1,1 +1,4 @@
-# twitter-analysis
+# twitter-analysis:
+
+آنالیز هشتگ های توییتر فارسی با استفاده از نرم افزار گفی
+
